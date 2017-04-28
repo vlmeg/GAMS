@@ -134,3 +134,6 @@ p(k)$(ord(k) ne 2)= no;
   sp=tot(i+1)+objm.l-r.l;
 
 );
+
+
+Reference: Debabrata Chattopadhyay(IIIE Transactions on Power Systems, Vol. 14, No. 1, February 1999)
